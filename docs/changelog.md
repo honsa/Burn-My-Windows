@@ -5,11 +5,13 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Changelog of the Burn-My-Windows Extension
 
-## Burn My Windows 44 [upcoming release]
+## [Burn My Windows 44](https://github.com/schneegans/Burn-My-Windows/releases/tag/v44)
 
-**Release Date:** TBD
+**Release Date:** 2024-11-06
 
 #### New Features
+
+<a href="https://youtu.be/hEdFfzqy2J0"><img align="right" src ="pics/bmw44.jpg" /></a>
 
 - **New Effect: Focus.** Focus dude, focus. This effect is available both for GNOME and KDE. Thanks to [@jgarza9788](https://github.com/jgarza9788) for this contribution!
 - Effect Search: There is now a search bar in the preferences dialog which allows you to quickly find the effect you are looking for. Thanks to [@jgarza9788](https://github.com/jgarza9788) for this contribution!
